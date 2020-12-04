@@ -1,0 +1,1 @@
+# 10.-Mostrar_tipo_variable_booleano_False_python
