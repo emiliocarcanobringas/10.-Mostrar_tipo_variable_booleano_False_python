@@ -1,1 +1,1 @@
-# 10.-Mostrar_tipo_variable_booleano_False_python
+# Este programa muestra una variable de tipo booleano con valor False
